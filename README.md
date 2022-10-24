@@ -1,6 +1,9 @@
 # Spy-Family-Manga-Scrapper
 
 
+<center>
+<img src="./spy.jpg" width="500" height="300"/>
+</center>
 
 Spy X Family, Chapter 1  https://spyxfamily.xyz/manga/spy-x-family-chapter-1/
 <br/>
@@ -21,7 +24,6 @@ Spy X Family, Chapter 8  https://spyxfamily.xyz/manga/spy-x-family-chapter-8/
 Spy X Family, Chapter 9  https://spyxfamily.xyz/manga/spy-x-family-chapter-9/
 <br/>
 Spy X Family, Chapter 10  https://spyxfamily.xyz/manga/spy-x-family-chapter-10/
-<br/>
 <br/>
 Spy X Family, Chapter 11  https://spyxfamily.xyz/manga/spy-x-family-chapter-11/
 <br/>
